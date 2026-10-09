@@ -1,6 +1,6 @@
 # つくばVPN
 
-[![build](https://github.com/RTCK-reina/TsukubaVPN/actions/workflows/build.yml/badge.svg)](https://github.com/RTCK-reina/TsukubaVPN/actions/workflows/build.yml)
+[![build](https://github.com/RTCK-DEV/TsukubaVPN/actions/workflows/build.yml/badge.svg)](https://github.com/RTCK-DEV/TsukubaVPN/actions/workflows/build.yml)
 
 VPN Gate（筑波大学の学術実験プロジェクトが公開している公開VPN中継サーバー群）から
 サーバーを選んで、ボタン1つで macOS を VPN 接続させるネイティブアプリ。
